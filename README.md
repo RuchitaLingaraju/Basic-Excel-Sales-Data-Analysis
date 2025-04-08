@@ -1,6 +1,7 @@
 # Sales-Data-Analysis using Microsoft Excel
 
 📊 Analysis Performed:
+
 Compare the sales and orders using single chart
 
 Which month got the highest sales and orders?
